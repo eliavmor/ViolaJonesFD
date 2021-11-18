@@ -1,9 +1,15 @@
 # Viola Jones 
 This repo contains an end-to-end implemenation of the Viola Jones algorithm for real-time face detection.
-As part of of my pasion to CV algorithms I have decided to chalange myself to implement a real-time algorithm for scratch.
-In the repo you will find everyhing that is needed to implement Viola Jonas. From a simple Filter classes to weak and strong classifier class, data collection, filters generation and more. 
+As part of of my pasion to CV algorithms, I challenged myself to implement a real-time algorithm for face detection from *scratch*.
 
-In order to run real-time face detection please follow the following steps:
+In this repo you will find everyhing that is needed in order to fully train the Viola Jonas.
+* Filter classes
+* Weak and strong classifier class
+* Data collection scripts 
+* Filter generation scripts
+* and more.. 
+
+In order to run the code in real-time mode please follow the following steps:
 ## Step 1 
 1. unzip filter.zip
 2. pickle.zip
