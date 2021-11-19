@@ -1,5 +1,5 @@
 # Viola Jones 
-This repo contains an end-to-end implementation of the Viola Jones algorithm for real-time face detection. As part of of my passion to CV algorithms, I challenged myself to implement a real-time algorithm for face detection from *scratch*.
+This repo contains an end-to-end implementation of the Viola Jones algorithm for real-time face detection. As part of of my passion for CV algorithms, I challenged myself to implement a real-time algorithm for face detection from *scratch*.
 In this repo you will find everyhing that is needed in order to fully train the Viola Jonas.
 * Filter classes
 * Weak and strong classifier class
